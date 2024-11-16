@@ -2,7 +2,7 @@
 venv/
 env/
 ENV/
-
+mlops_modular_workflow.egg-info/
 __pycache__/
 .vscode/
 .log
