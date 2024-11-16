@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+__pycache__/
+.vscode/
+.log
+.ipynb_checkpoints
