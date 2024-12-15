@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559799840932024714/a5ea61e1b5e34eb7a9395e1e3934e9fd/artifacts
+end_time: 1734294956606
+entry_point_name: ''
+experiment_id: '559799840932024714'
+lifecycle_stage: active
+run_id: a5ea61e1b5e34eb7a9395e1e3934e9fd
+run_name: DecisionTree_training_run_20241215_143030
+run_uuid: a5ea61e1b5e34eb7a9395e1e3934e9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734294823911
+status: 3
+tags: []
+user_id: sakif

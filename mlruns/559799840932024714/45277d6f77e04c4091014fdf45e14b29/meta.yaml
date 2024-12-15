@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559799840932024714/45277d6f77e04c4091014fdf45e14b29/artifacts
+end_time: 1734295080899
+entry_point_name: ''
+experiment_id: '559799840932024714'
+lifecycle_stage: active
+run_id: 45277d6f77e04c4091014fdf45e14b29
+run_name: best_model_summary_training_run_20241215_143030
+run_uuid: 45277d6f77e04c4091014fdf45e14b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734295080405
+status: 3
+tags: []
+user_id: sakif
